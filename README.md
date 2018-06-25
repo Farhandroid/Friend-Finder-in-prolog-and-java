@@ -1,6 +1,13 @@
 # Friend-Finder-in-prolog-and-java
 
+I have created this project for my **CSE365**(Artificial Intelligence) course in **Spring 2017**
+
+
 **### Project Description**
+
+- Made with java and Prolog
+
+- Broad search option
 
 **Main Menu :-**
 
